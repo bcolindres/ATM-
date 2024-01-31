@@ -26,6 +26,21 @@ Follow the steps below to get a copy of the project up and running on your local
 
    ```bash
    git clone https://github.com/your-username/atm-simulation.git
+   
+
+2. Change into the project directory:
+cd atm-simulation
+
+3. Install dependencies:
+npm install
+
+## Usage
+1. Start the development server:
+npm start
+
+2. Open your browser and visit http://localhost:3000 to view the ATM simulation.
+
+3. Perform deposit and cashback transactions by selecting the action, entering the amount, and clicking the "Submit" button.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests. Please follow the Contributing Guidelines for more details.
